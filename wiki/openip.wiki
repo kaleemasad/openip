@@ -1,4 +1,5 @@
 #summary The openip is a package of open source libraries for research and development in image processing.
+#labels Featured
 
 = Introduction =
 
